@@ -1,0 +1,5 @@
+{
+  "name": "AI Color Grader",
+  "description": "An AI-powered application to color grade images using text prompts, maintaining 100% character consistency. Upload an image, describe a color style or choose a preset, and let the AI transform its mood.",
+  "requestFramePermissions": []
+}
